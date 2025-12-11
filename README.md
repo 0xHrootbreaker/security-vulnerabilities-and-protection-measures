@@ -17,7 +17,6 @@ exploits.
 ## 📂 Project Contents
 
 ### report/
-#### │
 #### ├── 01-introduction.md
 #### ├── 02-requirements-analysis.md
 #### ├── 03-system-design.md
